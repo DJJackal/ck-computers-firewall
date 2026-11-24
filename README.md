@@ -13,6 +13,7 @@ A Windows network monitor and threat watcher by [CK Computers](https://ckcompute
 - **Threat lists** – checks connections against public lists of known-bad addresses (Feodo Tracker, Spamhaus DROP, Emerging Threats, IPsum, CINS Army).
 - **Optional auto-block** – can block botnet command servers automatically using real Windows Firewall rules. Off by default, and every block can be undone from the Blocklist tab.
 - **Health report** – one click creates a branded, printable HTML security report.
+- **Ignore alerts** – right-click any alert to ignore it so it no longer affects the status or the report. Undo any time from Alerts > Ignored.
 
 ## Requirements
 
