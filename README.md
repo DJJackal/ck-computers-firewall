@@ -14,6 +14,8 @@ A Windows network monitor and threat watcher by [CK Computers](https://ckcompute
 - **Optional auto-block** – can block botnet command servers automatically using real Windows Firewall rules. Off by default, and every block can be undone from the Blocklist tab.
 - **Health report** – one click creates a branded, printable HTML security report.
 - **Ignore alerts** – right-click any alert to ignore it so it no longer affects the status or the report. Undo any time from Alerts > Ignored.
+- **Internet scanner handling** – well-known research scanners (Censys, Shodan and similar) are shown as low-level notices instead of threats, with an optional switch to block them.
+- **Optional remote support** – if you choose, you can connect the app to CK Computers so a technician can check your PC's security status. Off by default, separate opt-in for each level, and you can turn it off and forget the code at any time.
 
 ## Requirements
 
